@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServicePraf", "WinServicePraf\WinServicePraf.csproj", "{3BF74CA7-5C31-4170-A79D-A78206597404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA1", "CA1\CA1.csproj", "{07308658-0E09-43EC-A48C-C5C8E25F3F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA2", "CA2\CA2.csproj", "{EA3320A0-B56F-4C7A-A027-26ED368AA722}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3BF74CA7-5C31-4170-A79D-A78206597404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF74CA7-5C31-4170-A79D-A78206597404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF74CA7-5C31-4170-A79D-A78206597404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07308658-0E09-43EC-A48C-C5C8E25F3F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07308658-0E09-43EC-A48C-C5C8E25F3F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07308658-0E09-43EC-A48C-C5C8E25F3F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07308658-0E09-43EC-A48C-C5C8E25F3F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3320A0-B56F-4C7A-A027-26ED368AA722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3320A0-B56F-4C7A-A027-26ED368AA722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3320A0-B56F-4C7A-A027-26ED368AA722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3320A0-B56F-4C7A-A027-26ED368AA722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
