@@ -1,0 +1,6 @@
+ca1 file.txt | ca2
+
+in file.txt, have text1, text2, text3
+
+
+foreach loop thru array then print each line

@@ -10,6 +10,8 @@ namespace CA1
     {
         static void Main(string[] args)
         {
+            string[] someText = new string[5];
+            Console.WriteLine("just a test");
             Console.WriteLine("writing a line in CA1");
         }
     }
